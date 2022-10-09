@@ -2,6 +2,8 @@
 
 The Cashier Problem is one of the projects I completed at the end of Vanilla JS module @ DCI. 
 
+### Instructions: 
+
 Create a program that helps a cashier give adequate change to customers. The program should return the amount of notes and coins for the customer's change.
 
 Example: If the price is €3.75 and the paid amount is €50, then the client should receive €46.25 back in change.
