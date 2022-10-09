@@ -1,6 +1,6 @@
 # The Cashier Problem
 
-### The Cashier Problem is one of the projects I completed at the end of Vanilla JS module @ DCI. 
+The Cashier Problem is one of the projects I completed at the end of Vanilla JS module @ DCI. 
 
 Create a program that helps a cashier give adequate change to customers. The program should return the amount of notes and coins for the customer's change.
 
